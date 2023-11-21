@@ -1,0 +1,32 @@
+[
+  {
+    "heading" : " React Card in Practice",
+    "institute" : " RUET",
+    "dept" : "Mechatronics Engineering"
+  },
+
+  {
+    "name" : "Md, Rezwanur",
+    "address" : " Sahidul Hall, RUET",
+    "number" : "01521521324"
+  },
+  {
+    "name" : "S. M Jaoyad",
+    "address" : " Sahidul Hall, RUET",
+    "number" : "015215263573"
+  },
+
+  {
+    "name" : "Md, Ariful",
+    "address" : "Bang.. Hall, RUET",
+    "number" : "019761521356"
+  },
+
+  {
+    "name" : "Asim Saad",
+    "address" : " Katakhali, Rajshahi",
+    "number" : "013984766477"
+  }
+
+]
+
